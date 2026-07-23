@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Raj kapoor",
+        "age": "45",
+        "pin": "1234",
+        "email": "raj@gmail.com",
+        "accountNo": "2AGW79",
+        "balance": 0
+    },
+    {
+        "name": "shami khan",
+        "age": "31",
+        "pin": "1234",
+        "email": "shami@yahoo.com",
+        "accountNo": "K1GV62",
+        "balance": 0
+    },
+    {
+        "name": "viney",
+        "age": "34",
+        "pin": "1234",
+        "email": "vineynamdev@gmail.com",
+        "accountNo": "OQ92X3",
+        "balance": 0
+    },
+    {
+        "name": "Vinay Namdev",
+        "age": "49",
+        "pin": "1234",
+        "email": "namdevviney@gmail.com",
+        "accountNo": "72SFT6",
+        "balance": 0
+    },
+    {
+        "name": "Naveen Sharma",
+        "age": "50",
+        "pin": "1975",
+        "email": "navsha@gmail.com",
+        "accountNo": "59UZ5I",
+        "balance": 14000
+    }
+]
